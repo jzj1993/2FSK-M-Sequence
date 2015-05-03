@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Thu Oct 31 12:50:04 2013
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : Divider
+Top-level Entity Name : Divider
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 11
+    Dedicated logic registers : 9
+Total registers : 9
+Total pins : 2
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0

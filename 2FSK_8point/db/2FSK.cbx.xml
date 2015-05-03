@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="2FSK">
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|BUSMUX:inst6|lpm_mux:$00000" CBX_FILE_NAME="mux_unc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|Sin:inst4|lpm_rom_sin:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7o71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|Sin:inst7|lpm_counter_sin:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_plh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|lpm_counter_8:inst5|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_opj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|Sin:inst4|lpm_counter_sin:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_plh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|Sin:inst7|lpm_rom_sin:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7o71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|lpm_counter_16:inst3|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_ppj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2FSK|lpm_counter_512:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_upj.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
